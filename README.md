@@ -13,4 +13,4 @@ And many more fetures.
 Create/add a database file named "pmas.sql" on your local host.
 
 ***********FOR LOGIN***********
-Access (Loginn Details Important) text file.
+Access (Login Details Important) text file.
